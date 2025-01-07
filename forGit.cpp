@@ -18,13 +18,7 @@ int fact(int N)
 
 int main()
 {
-    int n;
-
-    cout << "enter the number for variable n: ";
-    cin >> n;
-
-    cout << "\nfactorial number " << n << "(!) = " << fact(n);
-    cout << endl << n;
+    
 
     return 0;
 }
